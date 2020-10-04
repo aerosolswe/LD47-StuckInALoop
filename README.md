@@ -2,7 +2,7 @@
 
 ## Tethered
 
-* [Play here](https://aerosolswe.github.io/LD46-KeepItAlive/)
+* [Play here](https://aerosolswe.github.io/LD47-StuckInALoop/)
 
 ### General idea:
 Just survive as long as you can while you are tethered to your spaceship
