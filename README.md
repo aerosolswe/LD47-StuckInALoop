@@ -1,6 +1,6 @@
 ## Ludum Dare 47 - Stuck in a loop
 
-## Wrangled
+## Tethered
 
 * [Play here](https://aerosolswe.github.io/LD46-KeepItAlive/)
 
