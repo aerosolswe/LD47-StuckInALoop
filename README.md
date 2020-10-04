@@ -3,6 +3,7 @@
 ## Tethered
 
 * [Play here](https://aerosolswe.github.io/LD47-StuckInALoop/)
+It might take a few seconds to load because there is a unity bug with the build compression.
 
 ### General idea:
 Just survive as long as you can while you are tethered to your spaceship
